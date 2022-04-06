@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dasaintroyalty
-- 👀 I’m interested in learning a lot more about swift ui and swift programming language in general
-- 🌱 I’m currently learning swift
-- 💞️ I’m looking to collaborate on any project
+- 👀 Im passionate to learn and to acquire more knowledge
+- 🌱 I’m currently learning swiftUI and working on a personal project using swift language 
+- 💞️ I’m looking to collaborate on any project relating to iOS development or swift language related 
 - 📫 How to reach me @dasaintroyalty on twitter
 
 <!---
